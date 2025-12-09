@@ -1,3 +1,2 @@
 # spontane
-gelişine
-son 460 gün baz alınmıştır.
+gelisine.py ¢▓▒░ son 460 gün baz alınmıştır.
