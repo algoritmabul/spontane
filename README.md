@@ -1,5 +1,6 @@
 # spontane
 gelisine.py ilk sürüm 5 temel analiz.
+
 gelisine-1.py son sürüm ¢▓▒░ son 460 gün baz alınmıştır.
 
 Proje Özeti
