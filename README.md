@@ -1,0 +1,2 @@
+# spontane
+gelişine
